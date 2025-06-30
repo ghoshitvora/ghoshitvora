@@ -1,7 +1,6 @@
-## Hi there 👋
 
-<h1 align="center">I'm Ghoshit Vora</h1>
-<h3 align="center">Senior iOS Developer | 9 Years Experience | Swift, SwiftUI, Objective-C, React Native</h3>
+<h1 align="center">Hi there 👋, I'm Ghoshit Vora</h1>
+<h3 align="center">Senior iOS Developer | 8+ Years Experience | Swift, SwiftUI, Objective-C</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ghoshitvora&label=Profile%20views&color=0e75b6&style=flat" alt="ghoshitvora" />
@@ -11,9 +10,9 @@
 
 ### 👨‍💻 About Me
 
-🔹 I am a results-driven **Senior iOS Developer** with **9 years** of experience designing, developing, and maintaining high-performance iOS applications across diverse industries.  
-🔹 Skilled in **Swift**, **SwiftUI**, **Objective-C**, and **React Native**  
-🔹 Passionate about **Combine**, **Clean architecture**, **MVVM**, **MVC**, **Dependency Injection**, **Protocol-Oriented Programming (POP)** and **Object-Oriented Programming (OOP)**   
+🔹 I am a results-driven **Senior iOS Developer** with **8+ years** of experience designing, developing, and maintaining high-performance iOS applications across diverse industries.  
+🔹 Skilled in **Swift**, **SwiftUI**, **Objective-C**, and **Combine**  
+🔹 Passionate about **Clean architecture**, **MVVM**, **MVC**, **Dependency Injection**, **Protocol-Oriented Programming (POP)** and **Object-Oriented Programming (OOP)**   
 🔹 Proven experience in building complex features, integrating third-party libraries, and optimizing app performance  
 🔹 Strong grasp of App Store deployment, CI/CD, version control (Git), and Agile practices  
 
