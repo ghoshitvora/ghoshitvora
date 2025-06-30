@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there 👋, I'm Ghoshit Vora</h1>
+<h1 align="center">Hi 👋, I'm Ghoshit Vora</h1>
 <h3 align="center">Senior iOS Developer | 8+ Years Experience | Swift, SwiftUI, Objective-C</h3>
 
 <p align="center">
