@@ -34,12 +34,6 @@
 
 ### 🔗 Let's Connect
 
-<p align="left">
-  <a href="www.linkedin.com/in/imghoshitvora" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" style="margin-right: 25px;" />
-  </a>
-  <a href="mailto:ghoshit.vora93@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" height="40" style="margin-left: 25px;" />
-  </a>
-</p>
+- 💼 [LinkedIn](www.linkedin.com/in/imghoshitvora)
+- 📫 [Email](mailto:ghoshit.vora93@gmail.com)
 ---
