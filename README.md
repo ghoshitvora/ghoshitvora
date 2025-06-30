@@ -13,7 +13,7 @@
 
 🔹 I am a results-driven **Senior iOS Developer** with **9 years** of experience designing, developing, and maintaining high-performance iOS applications across diverse industries.  
 🔹 Skilled in **Swift**, **SwiftUI**, **Objective-C**, and **React Native**  
-🔹 Passionate about **Combine** **clean architecture**, **MVVM**, **Dependency Injection**, and **Protocol-Oriented Programming (POP)**  
+🔹 Passionate about **Combine**, **Clean architecture**, **MVVM**, **MVC**, **Dependency Injection**, **Protocol-Oriented Programming (POP)** and **Object-Oriented Programming (OOP)**   
 🔹 Proven experience in building complex features, integrating third-party libraries, and optimizing app performance  
 🔹 Strong grasp of App Store deployment, CI/CD, version control (Git), and Agile practices  
 
@@ -22,21 +22,14 @@
 ### 🛠️ Technologies & Tools
 
 - 💻 Swift, Objective-C, SwiftUI, Combine, React Native  
-- 🧱 MVVM, MVC, POP, SOLID Principles  
+- 🧱 MVVM, MVC, POP, SOLID Principles, DI
+- ⚙️ Swift Concurrency (async/await, Task, Actor), GCD, Multithreading  
 - 🧪 XCTest, Unit Testing  
-- 🌐 RESTful APIs, JSON, Offline Storage, Push Notifications  
-- 🛠️ Xcode, Git, CocoaPods, SPM, Fastlane  
-- ☁️ Firebase, Core Data  
-
----
-
-### 📌 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghoshitvora&show_icons=true&theme=tokyonight" alt="ghoshitvora stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ghoshitvora&theme=tokyonight" alt="ghoshitvora streak" />
-</p>
+- 🌐 RESTful APIs, JSON, Offline Storage & Caching, Push Notifications  
+- 🛠️ Xcode, Git, CocoaPods, SPM, Fastlane, Visual Studio  
+- ☁️ Firebase (Auth, Messaging, Cloud Functions, Remote Config)  
+- 🗄️ Core Data, SQLite
+-  📡 BLE (Bluetooth Low Energy), 💳 In-App Purchase
 
 ---
 
