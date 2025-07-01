@@ -34,6 +34,12 @@
 
 ### 🔗 Let's Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/imghoshitvora)
-- 📫 [Email](mailto:ghoshit.vora93@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/ghoshitvora" target="_blank" rel="noopener noreferrer">
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" style="margin-right: 30px;" />
+  </a>
+  <a href="mailto:ghoshitvora@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" style="margin-left: 30px;" />
+  </a>
+</p>
 ---
